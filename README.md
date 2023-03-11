@@ -1,6 +1,6 @@
 ## 一、项目介绍
 
-topic-dispatch项目是仿springmvc部分核心原理来实现生产环境中复杂业务数据分发处理，可以简单的理解成自己手写一个简单的springmvc框架，目前已经实现了以下部分逻辑。
+topic-dispatch项目是仿springmvc部分核心原理来实现生产环境中复杂业务数据分发处理，可以简单的理解成手写一个简易的springmvc框架，目前已经实现了以下部分逻辑。
 
 ![image-20230311224547904](https://damon-study.oss-cn-shenzhen.aliyuncs.com/%20typora/%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8Bimage-20230311224547904.png)
 
